@@ -72,11 +72,11 @@ python app.py
 | Bandpass Filter | ✅ |
 | FFT → BPM | ✅ |
 | OpenCV Dashboard | ✅ |
-| CNN | 🔜 Next phase |
-| Fuzzy Logic | 🔜 Next phase |
-| Random Forest | 🔜 Next phase |
+output:
+<img width="1919" height="1023" alt="Screenshot 2026-06-05 203557" src="https://github.com/user-attachments/assets/5ddffaea-724d-4ba2-8c3b-c8d8db445c1b" />
 
 ---
+
 
 ## Roadmap
 
@@ -95,3 +95,4 @@ CHROM (current)
 - **Keep still** — motion artifacts are the biggest source of error
 - **Wait ~10 s** — the buffer needs time to fill before BPM is reliable
 - Normal resting range shown: **45–180 BPM**
+
